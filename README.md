@@ -1,13 +1,13 @@
-<h1 align="center">¡Hello World! 👋🌍</h1>
+<h1 align="center">Hello World! 👋🌍</h1>
 
 <p align="center">
-  Soy un desarrollador apasionado por crear interfaces modernas y aplicaciones web eficientes.  
-  Me gusta aprender nuevas tecnologías y construir proyectos con buenas prácticas.
+  I am a developer passionate about creating modern interfaces and efficient web applications.  
+  I enjoy learning new technologies and building projects using best practices.
 </p>
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Technologies I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,27 +26,25 @@
 
 ---
 
-## 📚 Actualmente aprendiendo
-- Mejores prácticas en **React y Next.js**
-- Arquitectura de proyectos frontend
-- Integración con bases de datos MySQL
+## 📚 Currently Learning
+- Best practices in **React and Next.js**
+- Frontend project architecture
+- Integration with MySQL databases
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🌐 Connect With Me
 
 <p align="center">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
   <a href="https://www.linkedin.com/in/eduardo-isaac-pertuz-villegas-0231a039b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -55,6 +53,5 @@
 ---
 
 <p align="center">
-  🚀 *Siempre aprendiendo y creando* 🚀
+  🚀 <em>Always learning and building</em> 🚀
 </p>
-
