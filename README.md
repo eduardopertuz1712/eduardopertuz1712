@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Technologies I Use
+## <img src="https://github.com/user-attachments/assets/6c897810-b146-4eae-9a3e-5c51b772ece3" width="28" /> Technologies I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -56,6 +56,7 @@
 <p align="center">
   🚀 <em>Always learning and building</em> 🚀
 </p>
+
 
 
 
