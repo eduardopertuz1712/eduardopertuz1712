@@ -47,7 +47,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/eduardo-isaac-pertuz-villegas-0231a039b/)https://www.linkedin.com/in/eduardo-isaac-pertuz-villegas-0231a039b/">
+  <a href="https://www.linkedin.com/in/eduardo-isaac-pertuz-villegas-0231a039b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
@@ -57,3 +57,4 @@
 <p align="center">
   🚀 *Siempre aprendiendo y creando* 🚀
 </p>
+
