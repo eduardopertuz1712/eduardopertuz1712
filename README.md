@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardopertuz1712&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=eduardopertuz1712&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardopertuz1712&theme=tokyonight" />
 </p>
 
 
@@ -56,6 +56,7 @@
 <p align="center">
   🚀 <em>Always learning and building</em> 🚀
 </p>
+
 
 
 
