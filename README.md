@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github.com/eduardopertuz1712/eduardopertuz1712/blob/output/github-contribution-grid-snake.svg?raw=true" width="100%" alt="Pixel Snake Game" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff7ff,100:ff00ff&height=200&section=header&text=Welcome%20to%20My%20Tech%20World&fontSize=40&animation=wave" 
+    alt="Futuristic Banner"
+  />
 </p>
 
 <h1 align="center">Hello World! 👋🌍</h1>
@@ -63,6 +66,7 @@
 <p align="center">
   🚀 <em>Always learning and building</em> 🚀
 </p>
+
 
 
 
