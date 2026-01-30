@@ -38,9 +38,6 @@
 ---
 
 ## 💻 Projects & Highlights
-Here are a few projects I've built:
-
-## 💻 Projects & Highlights
 
 - **[Portfolio Web](https://eduardopertuz1712.github.io/Prueba_M2/)** – My personal portfolio website showcasing my projects, built with **React** and **Next.js**.
 - **[Pruebas Inventario Laravel](https://github.com/eduardopertuz1712/pruebas_inventario_laravel)** – Sistema de inventario básico desarrollado con **Laravel** y **PHP**, con gestión de productos, categorías y control de stock.
@@ -82,4 +79,5 @@ Here are a few projects I've built:
 <p align="center">
   🚀 <em>Always learning, always building</em> 🚀
 </p>
+
 
