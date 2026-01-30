@@ -42,9 +42,8 @@ Here are a few projects I've built:
 
 ## 💻 Projects & Highlights
 
-- **[Portfolio Web](https://github.com/eduardopertuz1712/portfolio)** – My personal portfolio website showcasing my projects, built with **React** and **Next.js**.
-- **[Task Manager App](https://github.com/eduardopertuz1712/task-manager)** – A CRUD application for task management using **PHP** and **MySQL**.
-- **[Weather Dashboard](https://github.com/eduardopertuz1712/weather-dashboard)** – Real-time weather dashboard built with **React** and **API integration**.
+- **[Portfolio Web](https://eduardopertuz1712.github.io/Prueba_M2/)** – My personal portfolio website showcasing my projects, built with **React** and **Next.js**.
+- **[Pruebas Inventario Laravel](https://github.com/eduardopertuz1712/pruebas_inventario_laravel)** – Sistema de inventario básico desarrollado con **Laravel** y **PHP**, con gestión de productos, categorías y control de stock.
 
 > Tip: Link your top 2-3 GitHub repos here for recruiters or collaborators.
 
@@ -83,3 +82,4 @@ Here are a few projects I've built:
 <p align="center">
   🚀 <em>Always learning, always building</em> 🚀
 </p>
+
