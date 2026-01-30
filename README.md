@@ -1,9 +1,5 @@
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/eduardopertuz1712/eduardopertuz1712/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="Pixel Snake Game"
-  />
+<img src="https://raw.githubusercontent.com/eduardopertuz1712/eduardopertuz1712/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <h1 align="center">Hello World! 👋🌍</h1>
@@ -67,6 +63,7 @@
 <p align="center">
   🚀 <em>Always learning and building</em> 🚀
 </p>
+
 
 
 
