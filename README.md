@@ -41,7 +41,7 @@
 
 ## 💻 Projects & Highlights
 
-- **[Portfolio Web](https://eduardopertuz1712.github.io/Prueba_M2/)** – My personal portfolio website showcasing my projects, built with **React** and **Next.js**.
+- **[Portfolio Web](https://portafolio-sigma-plum-76.vercel.app/)** – My personal portfolio website showcasing my projects, built with **React** and **Next.js**.
 - **[Pruebas Inventario Laravel](https://github.com/eduardopertuz1712/pruebas_inventario_laravel)** – Sistema de inventario básico desarrollado con **Laravel** y **PHP**, con gestión de productos, categorías y control de stock.
 
 > Tip: Link your top 2-3 GitHub repos here for recruiters or collaborators.
